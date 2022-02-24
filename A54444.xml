@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all simple, honest-intending, and innocent people without respect to sects, opinions, or distinguishing names, who desire to walk with God in the pure spirit of life and true understanding : I send greeting in the harmless love of God.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54444</idno>
+            <idno type="STC">Wing P1632</idno>
+            <idno type="STC">ESTC R28431</idno>
+            <idno type="EEBO-CITATION">10594451</idno>
+            <idno type="OCLC">ocm 10594451</idno>
+            <idno type="VID">45321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all simple, honest-intending, and innocent people without respect to sects, opinions, or distinguishing names, who desire to walk with God in the pure spirit of life and true understanding : I send greeting in the harmless love of God.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Perrot.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bevan-Naish Collection, Woodbrooke College.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45321:1" rendition="simple:additions"/>
+            <head>To all Simple, Honest-intending, and In<g ref="char:EOLhyphen"/>nocent people, without reſpect to Sects, Opinions, or distinguiſhing Names; who deſire to walk with God <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the pure Spirit of Life and true Underſtanding. I ſend Greeting in the harmleſs love of God.</head>
+            <p>BRethren and Siſters a ſpring is open in me of that life and nature which ſhall out-live all prejudices, conten<g ref="char:EOLhyphen"/>tions, perſecutions, and enmity; even the charity of the Eternal and Incomprehenſible power, which guſheth forth, ſtreameth, yea, and freely floweth towards you all.</p>
+            <p>In this ſpirit I cannot be withholden from viſiting you, for the yearning and melting of my tender bowels do reach forth unto you all; In and by which I am conſtrained to ſhed abroad theſe things, to the end that God may be glorified in many; and that ſome may know I yet live to love all.</p>
+            <p>I have a deep conſideration of ſundry things which I have ſeen come to paſs, to the ſorrow and grief of my heart, and bowing down of my ſoul before the Lord God, which cries to him that lives for ever and ever.</p>
+            <p>The cauſe of my plaint, for whom and for what it is, I ſhall be ſilent in to man; becauſe I know it is the Lord alone that works the ſalvation of <hi>Iſrael,</hi> and that returns the Captivity of <hi>Jacob,</hi> whoſe day haſtens, it will come; yea, it is ſwiftly coming to paſs, of which theſe following words are true and certain effects of its dawing.</p>
+            <p>God is that ſpirit, life, light, vertue, and power, appearing in and unto his poor creature man; which through charity in judgment, for the manifeſtation of mercy and remiſſion, ap<g ref="char:EOLhyphen"/>peareth in the ſecret of mans ſoul, to the end, that in his mind he may be like his God; that in that likeneſs and heavenly ſi<g ref="char:EOLhyphen"/>militude he may faithfully ſerve his God.</p>
+            <p>Now God in himſelf is incomprehenſibly holy and immeaſu<g ref="char:EOLhyphen"/>rably wiſe, who makes man both in intention and inclination, and many vertues like himſelf: But makes not man either in holineſs or wiſdom abſolutely God himſelf, becauſe he will have mans fear and reverence in his eye to the end of time and dayes.</p>
+            <p>
+               <pb n="2" facs="tcp:45321:2"/>He comes into mans heart to work a work, and through the work to ſhew to man, who and what he is that works it; how and what manner of ſpirit, the time when he began the ſubject upon what, and the end for what he operates it; that as man ſhall ſee and behold him in all theſe reſpects, as he walketh to<g ref="char:EOLhyphen"/>wards man, ſo man may walk in the ſpirit of his God towards all men; this being of his Image and Likeneſs, but what is not of this degenerates from his ſimilitude.</p>
+            <p>Now this I hope you may all know, or may yet be given to know that God never came to any void of Charity in raſh, but alwayes in righteous tender judgment, who hath approved his grace in the eyes of man by long-forbearance and at laſt for<g ref="char:EOLhyphen"/>giveneſs, who delights not in the death of a ſinner, who while ſome were in their bloud, when none pitied them, he ſaid to them live, and while others were backſliden he healed their backſlidings and loved them freely.</p>
+            <p>By this ſpirit I am taught, that if any Lamb be bitten, wound<g ref="char:EOLhyphen"/>ed, or torn by the Wolf in his own houſe, if I ſeek any thing it muſt be to heal him; if any Childs garments be ſpotted it muſt be to waſh them, if any Babe be fallen aſleep to wait in hope and breathing till he be awakened, if any is not of the fold to gather him in the ſame Charity by which I was gathered, and leave the Righteouſneſs of Equity to him who ſhewed me mercy</p>
+            <p>Ah what a rare thing it is to find a mans judgment compoſed of, and ſtanding in the mercies of God: Though who ſhall in<g ref="char:EOLhyphen"/>ſpire the heavenly glory, and not find the fulneſs of juſt judg<g ref="char:EOLhyphen"/>ment to be the immence over flowing fountain of mercy, yet he comes in 10000 of his Saints to judge the earth in them; that nothing but mercy in an underſtanding of his glory may dwell there, what wiſe-man then ſhall go out of his own land into another Sea where the Lord is travelling in the deep thereof in judgment, that his ſtreams may flow forth in Righteouſneſs and his Ocean overwhelm in holineſs, and that the knowledge of his glorious brightneſs may cover the earth, as the waters cover the Sea.</p>
+            <p>Let my ſoul therefore keep to the ſecrets of his judgments within me, that when I go forth it may be with the effect of his judgment, which is mercy, tenderneſs, love, and charity to all,
+<pb facs="tcp:45321:2"/>
+which I deſire may not prove offenſive to any; and let not my ſoul go forth in its own conceivings to take from God his Pre<g ref="char:EOLhyphen"/>rogative of judgment in any, yet if at any time my foot ſhould ſlide, and I do ſo let him that ſees me not therefore ſlay me, but ſave me; for that is of mercy and not of ſeverity and cruelty.</p>
+            <p>This ſpirit ſpeaketh truth in all, and admiteth not any to ſpeak otherwiſe then truth of and unto all; yet if any ſpeak not truth of him in whom it lives and rules it forgives the wrong not ſeeking revenge on any; and he that is in it knows the ex<g ref="char:EOLhyphen"/>perimental work of it both in life and practice, and this never dying but ever living ſpirit is the perfect Oneneſs and Unity; and there is no holy Unity or Oneneſs beſide it, or beſide what it is, not it ſelf, but of it or in it. And no viſible appearance of what man is in feature or geſture, or what mans corporal form bear about it or upon it, or what mans acts as things in natural view done or effected is it ſelf, that is to ſay, is this very ſpirit, life, or unity: But many things may be of its dictates or mo<g ref="char:EOLhyphen"/>tions, and therefore becauſe the dictates are not the dictator, nor the motions the real mover, therefore the motions dictates or appearances cannot be the eternal Oneneſs or Unity; he therefore whoſe unity ſtands in an external appearance may miſs of the true mark.</p>
+            <p>But he whoſe unity ſtands only in the eternal unity, or one ſpirit of life and holineſs, whether in appearance or not appea<g ref="char:EOLhyphen"/>rance outward, keeps his ſolid peace and infallible fellowſhip with God, Chriſt, and all his Saints which never dies.</p>
+            <p>And underſtanding of the nature of this ſpirit hath taught me to bear withall perſons, though according to the true know<g ref="char:EOLhyphen"/>ledge are zealouſly affected with appearances; where the ap<g ref="char:EOLhyphen"/>pearance is of good intention, and ſimply in it ſelf no trangreſ<g ref="char:EOLhyphen"/>on, and alſo to ſuffer in a ſenſe under the evils of many who in appearance are abſolutely tranſgreſſours, for a ſeeds ſake who hath wreſtled and ſtriven with all men in their ſins and tranſ<g ref="char:EOLhyphen"/>greſſions, and for their ſouls ſake which are captivated and bound in darkneſs through their tranſgreſſions, that through bearing and ſuffering the aboundance of love, charity, tempe<g ref="char:EOLhyphen"/>rance, mercy, &amp; forgiveneſs of our Lord Jeſus Chriſt may appear in the fulneſs of the day which is hoped for and believed ſhall
+<pb n="4" facs="tcp:45321:3"/>
+be moſt gloriouſly revealed, he that ſees moſt of it this day ſees but in part, and he that ſees leaſt alſo ſees a part; but he that ſees moſt ſees more then he that ſees leaſt, ſo he that ſees moſt ſees not as much as he that hath given to the leaſt his little part, and for this cauſe let all fleſh be abaſed before the Lord God for ever and let the wiſeſt know his duty to wait, and alſo his end of waiting which is to know more of Gods wiſdom and righ<g ref="char:EOLhyphen"/>teouſneſs to fill him then yet he is ſo compleated in whilſt I not<g ref="char:EOLhyphen"/>withſtanding ſay that the leaſt proportion is altogether ſuffici<g ref="char:EOLhyphen"/>ent for the profoundeſt knowing perſon, yea paſſing his com<g ref="char:EOLhyphen"/>prehenſion either as it is in himſelf, or as it is in the loweſt of the Lords babes and little Lambs. Ah let fleſh therefore put no li<g ref="char:EOLhyphen"/>mit to God.</p>
+            <p>His ſpirit which in it ſelf is perfect unity, is alſo perfect and everlaſting amity; and as I hold no other unity, ſo I eſteem of no other amity, which neither unites nor gives liberty to any part of fleſh or ſpirit but what is of its own nature of purity, ſeparation is of the inward ſpirits in a mans ſelf, even the true ſeparation of the juſt from the vile, and him which fears the Lord, from him which fears him not, the right ſeparation con<g ref="char:EOLhyphen"/>ſiſts not of any thing which God ſimply created or inſtituted in man, that one man ſhould be intentionally ſeparated or divi<g ref="char:EOLhyphen"/>ded from another, wherefore I ſay I have love to every mans perſon, to every mans ſoul, and to the ſeed of God in every mans ſoul, and hold not enmity with any thing except that in my own ſoul, and all ſouls which often ſeeks to ſink it in the deep Sea of ſin and tranſgreſſion.</p>
+            <p>Man that boaſts over man the Lord will humble, for all fleſh is graſs, and the beſt of men is as a Bryer and all men are lyers, and God only is true. This I have experienced as for as I have had knowledge of poor changeable man, and therefore in the ſpirit that made man I find and feel pity for him, and not paſſi<g ref="char:EOLhyphen"/>on and extream perſecution purſuing him.</p>
+            <p>I have ſeen a great evil in the earth which the Lord hath ſhewed unto me, which is this; there are many people ſpeaking of one ſpirit which deem themſelves, even each people of them<g ref="char:EOLhyphen"/>ſelves, to be wiſer and holier then other people in reſpect of method and form, which is the ground of ſeparations, diviſions, and prejudices, and the like enormities, which produce the ef<g ref="char:EOLhyphen"/>fects of cruelty and perſecution.</p>
+            <p>
+               <pb n="5" facs="tcp:45321:3"/>By Paper, Expreſſion, and real Action, which the Spirit of God I am ſure allows not of in any man, but the day cometh that every mans juſt intending ſhall be moſt gloriouſly transformed into true knowledge, the which will produce the moſt heaven<g ref="char:EOLhyphen"/>ly fruits of holineſs; and this will be ſeen when every man ſhall ſee himſelf a fool, and altogether imperfect in holineſs be<g ref="char:EOLhyphen"/>fore the Lord; when no man ſhall ſay, I have been wiſe in all things, and thou a fool; I have been righteous and thou wick<g ref="char:EOLhyphen"/>ed, but I have been implacably wicked as well as you, and in my implacability have been unrighteous as well as you, when every mans ſoul ſhall be bowed down in mourning, when no hand ſhall be lifted up to wipe its lips, ſaying to another, I am holier then thee ſtand therfore aloof from me; this day will bring forth righteouſneſs, and the glory of the Lord in the earth.</p>
+            <p>In this knowledge I am taught to ſtay my hand from giving way to warring with any; for I have ſeen a glimpſe of the Lambs life, who in love through ſuffering overcomes all things; and therefore if for this love ſake I am or muſt become an out<g ref="char:EOLhyphen"/>caſt by all, a forſaken of all, a perſecuted by all, and a killed, crucified, and ſlain of all; yet let the Lord bear me up to bear and ſuffer all, that hereby in the Kingdom of the Lambs tribu<g ref="char:EOLhyphen"/>lation I may laſtly overcome in, by, and with the ſame love and bowels of mercy that overcame me: Notwithſtand<g ref="char:EOLhyphen"/>ing I am willing that all men ſhould be ſo prudent and wiſe, that wherein according to their method, forms, or perſwaſions of Law or Goſpel they have killed or crucified any, that when that which they have ſlain is caſt into the grave and rotten, that they dig not up the earth again to bring the dry bones or aſhes of the creature to life again, that they may kill it and ſlay it afreſh. For ſuch actions preach implacableneſs and an unſatiated thirſt for blood, whilſt the Lord works not this way, yet I have ex<g ref="char:EOLhyphen"/>perimented the truth of this: yea, I finde it certain, that it is better to be in a little of the innocent life, whilſt a man is ac<g ref="char:EOLhyphen"/>counted dead, then to be dead from the life whilſt a man is ac<g ref="char:EOLhyphen"/>counted living, and all that live in the leaſt meaſure of vertue walking with God truly know it.</p>
+            <p>One great cauſe of diſtances and contention is a mans own affection wedded to his own perſwaſion; but when the byas is taken out of his heart, and the Lord found the ſwayer of every
+<pb n="6" facs="tcp:45321:4"/>
+affection. The common diſtances will ſoon determine.</p>
+            <p>Man ſhall be ſpoken unto and converſed with as a veſſel which God hath formed; and then if an enemy ſhall be ſeen to be riſen in any veſſel, love to the veſſel, to the ſoul, to the ſeed in the veſſel will wreſtle in its heavenly nature to over<g ref="char:EOLhyphen"/>come the enemy; and this makes no ſeparation through thee to common and unrighteous enmity, but ingages a pure unity through the exerciſe of life in its own pure amity.</p>
+            <p>Remember this amity and unity ſhall out-live all cruelty and enmity; for the one in its being and nature is God, the other the Devil; the one brings peace, the other trouble, the one good will to all men, the other ill will to all men: I eſteem of every labourer for the Lord and maſters ſake; I hold none ſuch in contempt, but my ſelf the moſt contemptable of all; yet the Lord in me more worthy of audience and obedience then the voyce of any meſſenger to me; and therefore till I hear the voice of God in me, though I have heard the voice of a trumpet without me. I am to ſtand ſtill and wait for a certain knowledge of the ecchoings through the valley of my ſoul, as ſound an<g ref="char:EOLhyphen"/>ſwering ſound of Gods minde in me, for the Lord alone muſt be exalted in <hi>Iſrael</hi> in a greater glory then he was among <hi>Iſrael</hi> in the Thunderings, Lightnings, and very dreadful Earth<g ref="char:EOLhyphen"/>quakes, and we muſt all ceaſe from man, and be all taught of God from the greateſt to the leaſt.</p>
+            <p>The teacher is not the ſigne nor the figure; nay, neither is it viſible appearance, the ordinance, nor mans performance; but the teacher ſent the ſignes and inſtituted the reſt, which man cannot ſee but as he ſtands in the life of the teacher, where all the ſignes are underſtood, and the end of all figures and all o<g ref="char:EOLhyphen"/>ther inſtitution known, that nothing at laſt may ſtand but God in man, and man in his God; and he that hath the inſtitutor hath all, yea, and much more then all inſtitutions which are things in viſible appearance, he walks in the Spirit and judgeth no man by religious appearance to external ſence, but judgeth with the righteous judgement of the life of love which keepeth mercy for all: ah all muſt be taught of God.</p>
+            <p>Now if any ſpirit in man ſhall conteſt about me, my princi<g ref="char:EOLhyphen"/>pal judgement or underſtanding, though it ſeem to be for me as well as in others againſt me; or if any man ſhall ſmite an<g ref="char:EOLhyphen"/>other
+<pb n="7" facs="tcp:45321:4"/>
+in my name, or under pretence of that ſpirit which I own and witneſs, I muſt ſo far witneſs againſt it as to intreat all ſuch to decline ſuch perſecution.</p>
+            <p>For I allow not of hard reflextions upon any in my own ſoul, and I can but exhort others as I my ſelf am ſpirited of the Lord.</p>
+            <p>Ah that the Sons of men did but know the frame of my mind towards all mankind as the Lord knows it, then could I think it would not be with many of all peoples as in ſundry reſpects it now is, yet the Lord knows, and I a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo know my own infirmities and weakneſs which are enough to humble and abaſe my ſoul before him.</p>
+            <p>I am in an ilimitable fellowſhip with the ſeed of God in all men, but bound to no opinion, ſo the union which is of opini<g ref="char:EOLhyphen"/>on I am not of, but the fellowſhip which is of the life which is juſt I am of, and if no man this day ſhould ſee my fellowſhip with any man, yet ſeeing another mans apprehenſion of me is not my life it is enough; for me that I know my fellowſhip with the ſeed in all as God had fellowſhip with it in me long before I knew it. I ſtand this day ſenſibly reconciled to God in a mea<g ref="char:EOLhyphen"/>ſure of his love, which is not willing to grieve his tender ſpirit by preſumption, and in this Spirit do find a Reconcilia<g ref="char:EOLhyphen"/>tion of my ſoul to all my fathers feed and houſhold, whoſe family is not only of one bare denominated people, as among all there are many various ſorts of denominations, but is this day moſt myſteriouſly made up of ſome, of the moſt of all peoples which I would have none be offended at, becauſe they ſee it not, nor can tell how it ſhould poſſibly be, for as much as God hath done it to whom all things are poſſible.</p>
+            <p>And ſeeing I am ſenſible of a Reconciliation to all, and hold my ſelf irreconciled to nothing, beſides to that which I muſt never be reconciled to in any of its appearances in my own heart if any man is not reconciled to me. I exhort that he may wait upon God to know the true reconciliation of God that his life may at laſt ſpring forth ſpreading its boughs in the righte<g ref="char:EOLhyphen"/>ous order.</p>
+            <p>And if any man profeſſeth this ſpirit of reconciliation as one that hath living union with me in the ſpirit, let him ſhew the effects of it, by patient bearing, &amp; never revenging by peaceable walking, and not by implacable acting, by ſuffering, reviling.</p>
+            <p>
+               <pb n="8" facs="tcp:45321:5" rendition="simple:additions"/>And not to revile again by being perſecuted, and not perſe<g ref="char:EOLhyphen"/>cute again by being infamized, and not infamize again by for<g ref="char:EOLhyphen"/>giving all and not ſeeking recompence of any, for this life will preach when all tongues ſhall be ſilent and dumb, it ſhall over<g ref="char:EOLhyphen"/>come when nothing elſe ſhall be able to prevail.</p>
+            <p>I have ſeen a Cloud paſs over the earth which was of eternal appointment and deſtination, that may man be yet abaſed, and that by his abaſement God may be moſt gloriouſly glorifyed, wherefore I am glad for the Lords ſake, and my poor ſoul ſake, that I am expeld of the houſe of <hi>Levi,</hi> and driven out of the Tent of <hi>Simeon,</hi> leaſt it ſhould have hapned to me to have been of their ſecret Counſel, ſince I know inſtruments of cruelty was in their houſe, &amp;c.</p>
+            <p>Now if any man will continue his ancient war after I have ſignified my life of peace and forgiveneſs, or will make a new war upon the account of theſe revivings of the ſprings of love and life for peace, he will act diſhonourably in ſtriking that which he knoweth before-hand will not ſtrike him again, and will ſhew a Cowardly nature by a cruel action, altogether un<g ref="char:EOLhyphen"/>chriſtian like, and unman like.</p>
+            <p>Finally, Though I am dead, and daily dying to formality to all men; yet not to Charity from any man, while I know there is a God that can ſave to the utmoſt, whom I deſire to love and fear.</p>
+            <closer>
+               <signed>JOHN PERROT.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the 11th Moneth 1664.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45321:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
